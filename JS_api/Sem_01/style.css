@@ -1,0 +1,56 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+
+.btnAdd {
+    padding: 3px;
+    font-style: italic;
+    font-size: 14px;
+    color: white;
+    background-color: rgba(116, 88, 67, 0.562);
+    margin-bottom: 10px;
+    border: 1px solid #eee;
+}
+.list-article {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.btnDell {
+    padding: 3px;
+    font-style: italic;
+    font-size: 14px;
+    color: white;
+    background-color: rgba(116, 88, 67, 0.562);
+    margin-bottom: 10px;
+    border: 1px solid #eee;
+}
+
+.btnRef {
+    padding: 3px;
+    font-style: italic;
+    font-size: 14px;
+    color: white;
+    background-color: rgba(116, 88, 67, 0.562);
+    margin-bottom: 10px;
+    border: 1px solid #eee;
+}
+
+.title {
+    font-size: 30px;
+    margin-bottom: 10px;
+    border-bottom: 4px solid #f6f1f0d9;
+    width: 100%;
+    color: darkolivegreen;
+    
+}
+
+.text {
+    font-size: 18px;
+    margin-bottom: 15px;
+    margin-top: 30px;
+    color: firebrick;
+}
